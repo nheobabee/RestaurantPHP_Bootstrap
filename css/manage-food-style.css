@@ -1,0 +1,45 @@
+* {
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.main_content {
+  margin-top: 55px;
+}
+
+h2 {
+  padding-top: 30px;
+  font-weight: bold;
+}
+
+.main_content a {
+    text-decoration: none;
+}
+.btn-primary, .btn-danger {
+    border-radius: 2px;
+    padding: 1.5%;
+}
+
+.btn_add {
+    border-radius: 6px;
+    padding: 1%;
+}
+
+.img-fluid {
+  width: 50%;
+  border-radius: 4px;
+}
+
+.content_footer {
+    margin: 0;
+}
+footer p {
+    color: #fff;
+}
+
+
+
+ tbody tr th,td {
+     border-style: none;
+ }

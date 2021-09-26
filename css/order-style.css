@@ -1,0 +1,123 @@
+
+.main-order .main-order-title {
+  text-align: center;
+  padding: 30px 0;
+  font-weight: bold;
+  color: #fff;
+}
+.main-order {
+  background-image: url("../img/5.jpg");
+  background-position-x: center;
+  height: max-content;
+}
+.selected-food {
+  border: #fff solid 1px;
+  line-height: inherit;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  border-radius: 6px;
+}
+.title_fieldset {
+  float:none;
+  width: auto;
+}
+.col-food-content {
+  line-height: 6px;
+}
+
+
+#food-title {
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 10px;
+}
+#food-price {
+  font-weight: 600;
+}
+#quantity {
+  font-weight: bold;
+}
+.food-img .img-fluid {
+  border-radius: 10px;
+  margin-top: 10px;
+}
+
+.sub-food input {
+  border-radius: 6px;
+  border: none;
+  width: 100%;
+}
+.col-food-content .sub-food {
+  padding-right: 20px;
+}
+
+.ship-food {
+  margin-top: 10px;
+  border: #fff solid 1px;
+  line-height: inherit;
+  padding: 0px 20px;
+  border-radius: 6px;
+  height: max-content;
+  margin-bottom: 10px;
+}
+.row-food-item input {
+  width: 100%;
+  border: none;
+  border-radius: 6px;
+  padding: 0 2px;
+}
+.row-food-item {
+  margin: auto;
+}
+#address {
+  border: none;
+  border-radius: 6px;
+}
+.row-food-item label {
+  padding-left: 0;
+  font-weight: bold;
+}
+
+.btn {
+  padding: 1%;
+  border: none;
+  font-size: 1rem;
+  border-radius: 5px;
+}
+.btn-primary {
+  margin: 5px 0;
+  background-color: #ff6b81;
+  color: white;
+  cursor: pointer;
+  left: 0;
+}
+.btn-primary:hover {
+  color: white;
+  background-color: #ff4757;
+}
+.footer-icon .text-center .fab {
+  margin: 10px;
+  color: black;
+}
+
+.footer-icon .text-center .fab:hover {
+  color: rgb(255, 102, 153);
+}
+
+.footer-icon .text-center {
+  margin-top: 10px;
+}
+.confirm_order {
+  margin: 8px 0;
+  border: none;
+  border-radius: 6px;
+  color: #fff;
+  background-color: rgb(255, 102, 153);
+  padding: 0 3%;
+  opacity: 0.9;
+  border: 1px solid #c24054;
+}
+.confirm_order:hover {
+  opacity: 1;
+  background-color: tomato;
+}

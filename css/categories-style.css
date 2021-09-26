@@ -1,0 +1,67 @@
+header {
+  top: 0;
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+  background-color: #fff;
+}
+
+main {
+  margin-top: 72px;
+}
+
+.navbar .container-fluid {
+  display: inline-block;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.navbar .container-fluid a {
+  color: rgb(255, 102, 153);
+  font-weight: bold;
+}
+
+.ctn-categories .food-title {
+    text-align: center;
+    padding: 30px 0;
+}
+
+.img-fluid {
+    border-radius: 10px;
+}
+
+.ctn-categories .row .col-sm-4 {
+    position: relative;
+}
+
+.food-text .text-center {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    color: #fff;
+    font-weight: 400;
+    font-size: 20px;
+}
+.footer-icon .text-center  .fab{
+    margin: 10px;
+    color: black;
+  }
+  
+  .footer-icon .text-center  .fab:hover {
+    color: rgb(255, 102, 153);
+  }
+  
+  .footer-icon .text-center {
+    margin-top: 10px;
+  }
+
+  .food-order-website .col-sm-4{
+      margin-top: 20px;
+     
+    
+  }
+
+.img-fluid {
+  height: 100%;
+}

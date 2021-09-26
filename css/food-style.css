@@ -1,0 +1,96 @@
+
+
+header {
+    top:0;
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+    background-color: #fff;
+  }
+  
+  main {
+    margin-top: 72px;
+  }
+  
+  
+  .navbar .container-fluid {
+    display: inline-block;
+    text-align: center;
+    margin-top: 10px;
+  }
+  
+  .navbar .container-fluid a {
+    color: rgb(255, 102, 153);
+    font-weight: bold;
+  }
+  
+  .search-food {
+    background-image: url("../img/5.jpg");
+    background-size: cover;
+    background-position: center;
+    padding: 7% 0;
+  }
+  .btn-outline-success {
+    color: #fff;
+    border-color: rgb(255, 102, 153);
+    background-color: rgb(255, 102, 153);
+    opacity: 0.9;
+  }
+
+  .btn-outline-success:hover {
+    background-color:rgb(255, 102, 153);
+    opacity: 1;
+  }
+  .search-food .container-fluid .d-flex {
+    width: 50%;
+    margin: auto;
+  }
+
+  .ctn-fluid-main h2 {
+    padding: 30px 0;
+    text-align: center;
+  }
+
+  .ctn-fluid-main {
+    background-color: lightgray;
+  }
+  .food-item-img .img-fluid {
+    border-radius: 10px;
+  }
+
+  .food-item-infor .btn-primary {
+    width: 100px;
+    font-size: 14px;
+    line-height: 0;
+    background-color: rgb(255, 102, 153);
+    border-color: rgb(255, 102, 153);
+    opacity: 0.9;
+    padding: 3% 0;
+  }
+  .food-item-infor .btn-primary:hover {
+    opacity: 1;
+    background-color: rgb(255, 102, 153);
+    border-color: rgb(255, 102, 153);
+  }
+  .ctn-fluid-main .food-item {
+    background-color: #fff;
+    margin-bottom: 25px;
+    margin-right: 20px;
+    border-radius: 10px;
+    padding: 15px 0;
+  }
+
+  .ctn-fluid-main .food-item .food-item-infor {
+    
+  }
+
+  .footer-icon .text-center {
+    margin-top: 10px;
+  }
+  .footer-icon .text-center .fab {
+    color: #000;
+    margin: 10px;
+  }
+  .footer-icon .text-center .fab:hover {
+    color: rgb(255, 102, 153);;
+  }
